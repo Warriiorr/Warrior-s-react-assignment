@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10vh;
+}
+
+.formComponents {
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: blue;
+    height: auto;
+    width: 40vw;
+}
+.red {
+    color: black;
+    background-color:red;
+    
+}
+
+.brown {
+    color: black;
+    background-color: brown;
+}

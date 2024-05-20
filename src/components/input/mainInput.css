@@ -1,0 +1,13 @@
+.test{
+    /* background-color: #41f541; */
+    color: #000;
+    
+}
+.input {
+    height: 30px;
+    width: 30vw;
+    border-radius: 5px;
+    margin: 3px 5px;
+    border: 1px;
+    outline: none;
+}
